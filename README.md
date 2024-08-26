@@ -3,4 +3,4 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-Good all days Students!!!//nn
+Good night Students!!!//nn
