@@ -3,4 +3,4 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-Good morning and evevning Students!! hows everyone?
+Good sunny morning Students!! hows everyone?
